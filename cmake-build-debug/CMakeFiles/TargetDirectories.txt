@@ -1,0 +1,3 @@
+C:/Users/fabdirashid/CLionProjects/CustomMemoryAllocator/cmake-build-debug/CMakeFiles/CustomMemoryAllocator.dir
+C:/Users/fabdirashid/CLionProjects/CustomMemoryAllocator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fabdirashid/CLionProjects/CustomMemoryAllocator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
